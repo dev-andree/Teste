@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(0, 88, 160);
+    background-image: url(background_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+
+
+header {
+    background-color: rgba(9, 189, 255, 0.243);
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -1%;
+    border-radius: 5px;
+}
+
+
+
+section {
+    color: white;
+    background-color: rgba(9, 189, 255, 0.243);
+    border-radius: 10px;
+    font-size: 50px;
+    padding: 10px;
+    position: absolute;
+    top: 250px;
+    left: 55%;
+}
+
+section span#eu{
+    font-size: 35px;
+}
+
+
+
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(0, 200, 255);
+}
+
+#git{
+    color: white;
+}
